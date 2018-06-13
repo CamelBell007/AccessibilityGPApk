@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\0e135988033006a7ad6b6ce8c2870f9a81c07204\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\accessibility_gp_apk\AccessibilityGPApk\ApkApplication\app\build\intermediates\pre-dexed\debug\classes_faf24113a8c3d6b8dbf4af65b5ee6e5ec00dd6a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\91785ed7f401378d682806a370751a310fb76111\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\accessibility_gp_apk\AccessibilityGPApk\ApkApplication\app\build\intermediates\pre-dexed\debug\classes_52ea51db51a89e3af18ad1c5b3ec785a5b575a7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\d46ba91674489ef7bef4610af20934c13b5ce7d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\accessibility_gp_apk\AccessibilityGPApk\ApkApplication\app\build\intermediates\pre-dexed\debug\classes_ff0ad60887e2fe72ae2696d8e8867a35d426a559.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\0873554c2a051d11d3b42b31d8843b27a73ce789\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\accessibility_gp_apk\AccessibilityGPApk\ApkApplication\app\build\intermediates\pre-dexed\debug\classes_370563aad74ca3cb090bd2662df73ae22505852a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\05c209f8526afccc3a047a0b0f65ef75bcb72a72\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\accessibility_gp_apk\AccessibilityGPApk\ApkApplication\app\build\intermediates\pre-dexed\debug\classes_d47afeb48969379928d46d27df709ab590fb8df5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\fff54b6b5f8a53a74ac172146c6bc1779d3f02e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\accessibility_gp_apk\AccessibilityGPApk\ApkApplication\app\build\intermediates\pre-dexed\debug\classes_ff5c8d3e50604786941082a6a6de60fc7c59c1a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\accessibility_gp_apk\AccessibilityGPApk\ApkApplication\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_d573760ead3216a5cc2d1e922f713bd8454b87f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\bc72d241a39a81cd22a7c772e86a59329383f8f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\accessibility_gp_apk\AccessibilityGPApk\ApkApplication\app\build\intermediates\pre-dexed\debug\classes_f507c93252b2b8729f3968d93c2dc67400cdaf75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\69825f013d6bbcb4320f6b7ca408c8156a57f93e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\accessibility_gp_apk\AccessibilityGPApk\ApkApplication\app\build\intermediates\pre-dexed\debug\classes_598a1a8be06a063a5e154363843cc2569551974b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\dfc8169a43cdd466761b159b6154b7e14c39146d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\accessibility_gp_apk\AccessibilityGPApk\ApkApplication\app\build\intermediates\pre-dexed\debug\classes_bd608b993638a1c7ff213c000b820dda1bb5211c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\389b28c8025d1192447931df5e268b0c185b20f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\accessibility_gp_apk\AccessibilityGPApk\ApkApplication\app\build\intermediates\pre-dexed\debug\classes_b42ba20437ecb1dca8710f52e18e36aebd860c94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\accessibility_gp_apk\AccessibilityGPApk\ApkApplication\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_8b5cf2424ddb4d3255fd5b504bc061c33490ae78.jar" />
+    </item>
+
+</items>
